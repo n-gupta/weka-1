@@ -41,6 +41,7 @@ import weka.core.converters.ConverterUtils.DataSource;
 public class JSONInstances {
 
   /** the header section. */
+/** [Seeded fault for CMSC737] Developers, comments should have a space after the stars not /**Like this*/ */  
   public final static String HEADER = "header";
 
   /** the data section. */
